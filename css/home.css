@@ -1,0 +1,29 @@
+body {
+    background-color: lightblue;
+  }
+  
+  .whole-container {
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .button-container {
+    background-color: lightgreen;
+    height: 200px;
+    width: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .output-container {
+    background-color: lightcoral;
+    height: 200px;
+    width: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
